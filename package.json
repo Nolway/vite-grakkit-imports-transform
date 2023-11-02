@@ -1,6 +1,6 @@
 {
     "name": "vite-grakkit-imports-transform",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Grakkit imports transform Vite plugin",
     "main": "dist/index.js",
     "scripts": {
